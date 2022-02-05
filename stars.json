@@ -1,8 +1,8 @@
 [
   {
     "full_name": "ueberauth/guardian",
-    "stargazers_count": 3161,
-    "open_issues_count": 3,
+    "stargazers_count": 3160,
+    "open_issues_count": 4,
     "forks_count": 359
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "elixirschool/elixirschool",
-    "stargazers_count": 3181,
+    "stargazers_count": 3183,
     "open_issues_count": 24,
-    "forks_count": 888
+    "forks_count": 890
   },
   {
     "full_name": "codingedward/ailing-planet",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 55950,
-    "open_issues_count": 101,
-    "forks_count": 11838
+    "stargazers_count": 56024,
+    "open_issues_count": 102,
+    "forks_count": 11856
   },
   {
     "full_name": "beamkenya/ex_pesa",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "iamcryptoki/snowden-archive",
-    "stargazers_count": 377,
+    "stargazers_count": 379,
     "open_issues_count": 0,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "posquit0/Awesome-CV",
-    "stargazers_count": 15268,
-    "open_issues_count": 162,
-    "forks_count": 3778
+    "stargazers_count": 15290,
+    "open_issues_count": 153,
+    "forks_count": 3786
   },
   {
     "full_name": "ash-project/ash",
@@ -68,26 +68,26 @@
   {
     "full_name": "okTurtles/group-income-simple",
     "stargazers_count": 313,
-    "open_issues_count": 219,
+    "open_issues_count": 220,
     "forks_count": 49
   },
   {
     "full_name": "dwyl/learn-elixir",
-    "stargazers_count": 1319,
+    "stargazers_count": 1321,
     "open_issues_count": 89,
     "forks_count": 91
   },
   {
     "full_name": "rust-lang/rust-by-example",
-    "stargazers_count": 4275,
-    "open_issues_count": 111,
-    "forks_count": 873
+    "stargazers_count": 4279,
+    "open_issues_count": 112,
+    "forks_count": 875
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 133852,
-    "open_issues_count": 221,
-    "forks_count": 22014
+    "stargazers_count": 133998,
+    "open_issues_count": 222,
+    "forks_count": 22046
   },
   {
     "full_name": "lowercasename/gathio",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "christopheradams/elixir_style_guide",
-    "stargazers_count": 3905,
+    "stargazers_count": 3910,
     "open_issues_count": 7,
     "forks_count": 292
   },
   {
     "full_name": "petervanderdoes/gitflow-avh",
-    "stargazers_count": 5018,
+    "stargazers_count": 5023,
     "open_issues_count": 171,
-    "forks_count": 480
+    "forks_count": 479
   },
   {
     "full_name": "infinitered/thesis-phoenix",
@@ -115,38 +115,38 @@
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 192736,
-    "open_issues_count": 554,
-    "forks_count": 31321
+    "stargazers_count": 192801,
+    "open_issues_count": 555,
+    "forks_count": 31336
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 47729,
+    "stargazers_count": 47786,
     "open_issues_count": 286,
-    "forks_count": 6701
+    "forks_count": 6706
   },
   {
     "full_name": "microsoft/fast",
-    "stargazers_count": 6656,
-    "open_issues_count": 311,
-    "forks_count": 407
+    "stargazers_count": 6673,
+    "open_issues_count": 304,
+    "forks_count": 406
   },
   {
     "full_name": "owncast/owncast",
-    "stargazers_count": 5529,
+    "stargazers_count": 5540,
     "open_issues_count": 100,
-    "forks_count": 376
+    "forks_count": 377
   },
   {
     "full_name": "RocketChat/Rocket.Chat",
-    "stargazers_count": 31477,
-    "open_issues_count": 3127,
-    "forks_count": 7177
+    "stargazers_count": 31649,
+    "open_issues_count": 3133,
+    "forks_count": 7183
   },
   {
     "full_name": "winstonjs/winston",
-    "stargazers_count": 18364,
-    "open_issues_count": 424,
+    "stargazers_count": 18372,
+    "open_issues_count": 426,
     "forks_count": 1630
   },
   {
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "hwayne/awesome-cold-showers",
-    "stargazers_count": 4621,
+    "stargazers_count": 4623,
     "open_issues_count": 11,
     "forks_count": 59
   },
