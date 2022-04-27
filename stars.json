@@ -1,7 +1,7 @@
 [
   {
     "full_name": "ueberauth/guardian",
-    "stargazers_count": 3175,
+    "stargazers_count": 3179,
     "open_issues_count": 4,
     "forks_count": 361
   },
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "t4t5/messengyr",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "elixirschool/elixirschool",
-    "stargazers_count": 3219,
-    "open_issues_count": 28,
+    "stargazers_count": 3221,
+    "open_issues_count": 29,
     "forks_count": 919
   },
   {
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 56953,
+    "stargazers_count": 56998,
     "open_issues_count": 104,
-    "forks_count": 12066
+    "forks_count": 12076
   },
   {
     "full_name": "beamkenya/ex_pesa",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "iamcryptoki/snowden-archive",
-    "stargazers_count": 415,
+    "stargazers_count": 416,
     "open_issues_count": 0,
     "forks_count": 93
   },
   {
     "full_name": "posquit0/Awesome-CV",
-    "stargazers_count": 15969,
+    "stargazers_count": 15989,
     "open_issues_count": 159,
-    "forks_count": 3926
+    "forks_count": 3931
   },
   {
     "full_name": "ash-project/ash",
@@ -68,42 +68,42 @@
   {
     "full_name": "okTurtles/group-income-simple",
     "stargazers_count": 314,
-    "open_issues_count": 243,
+    "open_issues_count": 245,
     "forks_count": 49
   },
   {
     "full_name": "dwyl/learn-elixir",
-    "stargazers_count": 1346,
+    "stargazers_count": 1349,
     "open_issues_count": 89,
     "forks_count": 94
   },
   {
     "full_name": "rust-lang/rust-by-example",
-    "stargazers_count": 4589,
-    "open_issues_count": 114,
-    "forks_count": 915
+    "stargazers_count": 4600,
+    "open_issues_count": 108,
+    "forks_count": 921
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 139518,
-    "open_issues_count": 240,
-    "forks_count": 23172
+    "stargazers_count": 139764,
+    "open_issues_count": 242,
+    "forks_count": 23220
   },
   {
     "full_name": "lowercasename/gathio",
-    "stargazers_count": 145,
-    "open_issues_count": 18,
+    "stargazers_count": 146,
+    "open_issues_count": 13,
     "forks_count": 16
   },
   {
     "full_name": "christopheradams/elixir_style_guide",
-    "stargazers_count": 3966,
+    "stargazers_count": 3970,
     "open_issues_count": 7,
     "forks_count": 291
   },
   {
     "full_name": "petervanderdoes/gitflow-avh",
-    "stargazers_count": 5089,
+    "stargazers_count": 5091,
     "open_issues_count": 171,
     "forks_count": 491
   },
@@ -115,55 +115,55 @@
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 195168,
+    "stargazers_count": 195273,
     "open_issues_count": 572,
-    "forks_count": 31966
+    "forks_count": 31997
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 50283,
+    "stargazers_count": 50455,
     "open_issues_count": 280,
-    "forks_count": 6954
+    "forks_count": 6965
   },
   {
     "full_name": "microsoft/fast",
-    "stargazers_count": 7028,
-    "open_issues_count": 293,
-    "forks_count": 453
+    "stargazers_count": 7043,
+    "open_issues_count": 296,
+    "forks_count": 452
   },
   {
     "full_name": "owncast/owncast",
-    "stargazers_count": 5817,
-    "open_issues_count": 102,
-    "forks_count": 419
+    "stargazers_count": 5836,
+    "open_issues_count": 105,
+    "forks_count": 420
   },
   {
     "full_name": "RocketChat/Rocket.Chat",
-    "stargazers_count": 32191,
-    "open_issues_count": 3318,
-    "forks_count": 7379
+    "stargazers_count": 32202,
+    "open_issues_count": 3329,
+    "forks_count": 7383
   },
   {
     "full_name": "winstonjs/winston",
-    "stargazers_count": 18736,
-    "open_issues_count": 429,
+    "stargazers_count": 18760,
+    "open_issues_count": 432,
     "forks_count": 1659
   },
   {
     "full_name": "sumup-oss/foundry",
     "stargazers_count": 29,
     "open_issues_count": 13,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "freeCodeCamp/chapter",
     "stargazers_count": 1803,
-    "open_issues_count": 59,
+    "open_issues_count": 56,
     "forks_count": 291
   },
   {
     "full_name": "hwayne/awesome-cold-showers",
-    "stargazers_count": 4641,
+    "stargazers_count": 4643,
     "open_issues_count": 11,
     "forks_count": 59
   },
@@ -171,7 +171,7 @@
     "full_name": "alexpermiakov/node-rest-api",
     "stargazers_count": 163,
     "open_issues_count": 2,
-    "forks_count": 78
+    "forks_count": 77
   },
   {
     "full_name": "salomvary/soundcleod",
