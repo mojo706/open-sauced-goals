@@ -1,7 +1,7 @@
 [
   {
     "full_name": "ueberauth/guardian",
-    "stargazers_count": 3180,
+    "stargazers_count": 3183,
     "open_issues_count": 4,
     "forks_count": 361
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "elixirschool/elixirschool",
-    "stargazers_count": 3222,
-    "open_issues_count": 30,
-    "forks_count": 920
+    "stargazers_count": 3223,
+    "open_issues_count": 32,
+    "forks_count": 922
   },
   {
     "full_name": "codingedward/ailing-planet",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 57019,
+    "stargazers_count": 57103,
     "open_issues_count": 105,
-    "forks_count": 12081
+    "forks_count": 12093
   },
   {
     "full_name": "beamkenya/ex_pesa",
     "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "jmkitavi/interview-questions",
@@ -49,61 +49,61 @@
   },
   {
     "full_name": "iamcryptoki/snowden-archive",
-    "stargazers_count": 418,
+    "stargazers_count": 419,
     "open_issues_count": 0,
     "forks_count": 93
   },
   {
     "full_name": "posquit0/Awesome-CV",
-    "stargazers_count": 16004,
+    "stargazers_count": 16023,
     "open_issues_count": 160,
-    "forks_count": 3940
+    "forks_count": 3951
   },
   {
     "full_name": "ash-project/ash",
-    "stargazers_count": 527,
+    "stargazers_count": 528,
     "open_issues_count": 42,
     "forks_count": 47
   },
   {
     "full_name": "okTurtles/group-income-simple",
     "stargazers_count": 314,
-    "open_issues_count": 256,
+    "open_issues_count": 257,
     "forks_count": 49
   },
   {
     "full_name": "dwyl/learn-elixir",
-    "stargazers_count": 1353,
+    "stargazers_count": 1354,
     "open_issues_count": 89,
     "forks_count": 94
   },
   {
     "full_name": "rust-lang/rust-by-example",
-    "stargazers_count": 4611,
+    "stargazers_count": 4619,
     "open_issues_count": 108,
-    "forks_count": 923
+    "forks_count": 924
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 139981,
+    "stargazers_count": 140222,
     "open_issues_count": 245,
-    "forks_count": 23267
+    "forks_count": 23308
   },
   {
     "full_name": "lowercasename/gathio",
-    "stargazers_count": 148,
+    "stargazers_count": 150,
     "open_issues_count": 13,
     "forks_count": 16
   },
   {
     "full_name": "christopheradams/elixir_style_guide",
-    "stargazers_count": 3973,
+    "stargazers_count": 3977,
     "open_issues_count": 7,
     "forks_count": 291
   },
   {
     "full_name": "petervanderdoes/gitflow-avh",
-    "stargazers_count": 5094,
+    "stargazers_count": 5096,
     "open_issues_count": 171,
     "forks_count": 491
   },
@@ -115,55 +115,55 @@
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 195372,
+    "stargazers_count": 195445,
     "open_issues_count": 572,
-    "forks_count": 32014
+    "forks_count": 32039
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 50560,
+    "stargazers_count": 50692,
     "open_issues_count": 279,
-    "forks_count": 6973
+    "forks_count": 6993
   },
   {
     "full_name": "microsoft/fast",
-    "stargazers_count": 7060,
-    "open_issues_count": 298,
-    "forks_count": 452
+    "stargazers_count": 7077,
+    "open_issues_count": 286,
+    "forks_count": 451
   },
   {
     "full_name": "owncast/owncast",
-    "stargazers_count": 5842,
-    "open_issues_count": 106,
-    "forks_count": 422
+    "stargazers_count": 5846,
+    "open_issues_count": 105,
+    "forks_count": 424
   },
   {
     "full_name": "RocketChat/Rocket.Chat",
-    "stargazers_count": 32218,
-    "open_issues_count": 3343,
-    "forks_count": 7385
+    "stargazers_count": 32240,
+    "open_issues_count": 3366,
+    "forks_count": 7391
   },
   {
     "full_name": "winstonjs/winston",
-    "stargazers_count": 18782,
-    "open_issues_count": 428,
-    "forks_count": 1658
+    "stargazers_count": 18795,
+    "open_issues_count": 431,
+    "forks_count": 1660
   },
   {
     "full_name": "sumup-oss/foundry",
     "stargazers_count": 29,
-    "open_issues_count": 13,
+    "open_issues_count": 11,
     "forks_count": 5
   },
   {
     "full_name": "freeCodeCamp/chapter",
-    "stargazers_count": 1803,
-    "open_issues_count": 58,
-    "forks_count": 290
+    "stargazers_count": 1801,
+    "open_issues_count": 56,
+    "forks_count": 289
   },
   {
     "full_name": "hwayne/awesome-cold-showers",
-    "stargazers_count": 4643,
+    "stargazers_count": 4642,
     "open_issues_count": 11,
     "forks_count": 59
   },
@@ -177,6 +177,6 @@
     "full_name": "salomvary/soundcleod",
     "stargazers_count": 956,
     "open_issues_count": 55,
-    "forks_count": 105
+    "forks_count": 104
   }
 ]
